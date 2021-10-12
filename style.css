@@ -1,0 +1,16 @@
+@import './theme.css';
+
+.mandatory-color {
+    color: var(--mandatory)
+}
+span {
+    color: var(--mandatory)
+}
+body {
+    background-color: #eee;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
